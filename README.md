@@ -10,7 +10,7 @@
 ## Contributors
 
 | Contributor           | Email                         |
-|-----------------------|-------------------------------||
+|-----------------------|-------------------------------|
 | Phan Thanh Đăng       | [22520193@gm.uit.edu.vn](mailto:22520193@gm.uit.edu.vn) |
 | Huỳnh Danh Đạt        | [22520211@gm.uit.edu.vn](mailto:22520211@gm.uit.edu.vn) |
 
